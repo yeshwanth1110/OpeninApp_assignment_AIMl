@@ -16,6 +16,6 @@ We have attached below the statements that are required to be used for this assi
 Note: The openai API used here has a limited access hence if the openai fails to run change the API link.
 ![2](https://github.com/yeshwanth1110/OpeninApp_assignment_AIMl/assets/94799982/cb526776-9d9c-420a-a5b3-0f12f5d44f0b)
 ## Output for first statment:
-
+![3](https://github.com/yeshwanth1110/OpeninApp_assignment_AIMl/assets/94799982/a948644d-3c92-4b4a-a98f-be170248dc8c)
 
 
